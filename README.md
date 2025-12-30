@@ -5,18 +5,16 @@ Run powerful video generation models on Kaggle's free Tesla T4 GPU (15GB VRAM) u
 ## 📸 Screenshots
 
 ### WanGP Interface
-*[Screenshot 1: Main WanGP interface with model dropdown]*
+![WanGP Interface](images\wan.jpeg)
 
-*[Screenshot 2: Available models list (Wan2.2, Wan2.1, LTX, Hunyuan, Flux, etc.)]*
+![Models](images\wan_models.jpeg)
 
-*[Screenshot 3: Video generation in progress with preview]*
+![Models](images\wan2.jpeg)
 
 ### Kaggle
-*[Screenshot 4: Kaggle notebook settings (GPU T4 x2, Internet enabled)]*
+![kaggle](images\kaggle.jpeg)
 
-*[Screenshot 5: Kernel restart menu (Run → Restart and Clear Cell Outputs)]*
-
-*[Screenshot 6: Successfully running WanGP with Gradio URL]*
+![kaggle](images\kaggle2.jpeg)
 
 ## 🚀 Quick Start
 
