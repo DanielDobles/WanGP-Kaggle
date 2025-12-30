@@ -5,16 +5,16 @@ Run powerful video generation models on Kaggle's free Tesla T4 GPU (15GB VRAM) u
 ## 📸 Screenshots
 
 ### WanGP Interface
-![WanGP Interface](images\wan.jpeg)
+![WanGP Interface](images/wan.jpeg)
 
-![Models](images\wan_models.jpeg)
+![Models](images/wan_models.jpeg)
 
-![Models](images\wan2.jpeg)
+![Models](images/wan2.jpeg)
 
 ### Kaggle
-![kaggle](images\kaggle.jpeg)
+![kaggle](images/kaggle.jpeg)
 
-![kaggle](images\kaggle2.jpeg)
+![kaggle](images/kaggle2.jpeg)
 
 ## 🚀 Quick Start
 
