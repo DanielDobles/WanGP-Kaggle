@@ -181,6 +181,12 @@ Generated videos are saved in the `outputs` folder:
 - Download your videos before the session ends
 - You can restart the notebook anytime for a new session
 
+## 📜 Credits
+
+This repository is a fork/distribution based on the original work by [kayas881](https://github.com/kayas881).
+
+Original Repository: [https://github.com/kayas881/WanGP-Kaggle.git](https://github.com/kayas881/WanGP-Kaggle.git)
+
 ---
 
 **Note**: This notebook uses the WanGP project by DeepBeepMeep, which provides an optimized interface for running multiple video generation models with efficient memory management.
